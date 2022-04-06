@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a researcher 👨‍🔬 in the Computer Science department of West University of Timișoara.
+
+❤️ I love what I do and I will not stop from doing what I love.
+
+🔭 I'm currently working on a research project involving cloud movement analysis ☁️ to estimate solar irradiance ☀️ for photovoltaic power output forecasting 💡.
+
+💬 Ask me about anything using the form on my website: [Penteliuc.com](http://penteliuc.com/contact) – while there, feel free to check it out.
+
 <!--
 **mariuspenteliuc/mariuspenteliuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
