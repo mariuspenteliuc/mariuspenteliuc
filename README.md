@@ -4,7 +4,7 @@ I am a researcher 👨‍🔬 in the Computer Science department of West Univers
 
 ❤️ I love what I do and I will not stop from doing what I love.
 
-🔭 I'm currently working on a research project involving historical document tagging for transliterating 19th-century Romanian Transitional Script.
+📜 I'm currently working on a research project involving historical document tagging for transliterating 19th-century Romanian Transitional Script.
 
 💬 Ask me about anything using the form on my website: [Penteliuc.com](http://penteliuc.com/contact) – while there, feel free to check it out.
 
